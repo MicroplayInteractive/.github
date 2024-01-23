@@ -1,3 +1,4 @@
+[![asd](https://cdn.discordapp.com/attachments/1137055496155709480/1168999828106248233/MicroplayWhite.png?ex=65b9526d&is=65a6dd6d&hm=0f83b2aaeb8b4a448c4a15a41e2e259655f4f8ba11b6e76a077f1e753f27f27a& "asd")](https://cdn.discordapp.com/attachments/1137055496155709480/1168999828106248233/MicroplayWhite.png?ex=65b9526d&is=65a6dd6d&hm=0f83b2aaeb8b4a448c4a15a41e2e259655f4f8ba11b6e76a077f1e753f27f27a& "asd")
 # Microplay Interactive Studio
 
 ## About Us
@@ -7,28 +8,6 @@ Welcome to Microplay Interactive Studio, where creativity meets innovation! We a
 ## Mission
 
 At Microplay Interactive Studio, our mission is to create memorable and immersive digital content that leaves a lasting impact. We strive to empower businesses, entertain audiences, and inspire individuals through innovative and interactive solutions.
-
-## Services
-
-### 1. Game Development
-
-Embark on a gaming journey with our expert game developers. From concept to launch, we bring your gaming ideas to life, creating captivating and enjoyable experiences across various platforms.
-
-### 2. Virtual Reality (VR) Experiences
-
-Immerse your audience in a new reality with our VR experiences. Whether for entertainment, education, or training, our VR solutions provide a truly immersive and interactive environment.
-
-### 3. Augmented Reality (AR) Solutions
-
-Enhance the real world with digital overlays using our AR solutions. From interactive marketing campaigns to educational tools, we leverage AR technology to create engaging experiences.
-
-### 4. Web and Mobile App Development
-
-Crafting functional and aesthetically pleasing web and mobile applications is our expertise. We design and develop apps that seamlessly integrate into users' lives and provide value.
-
-### 5. Interactive Installations
-
-Transform physical spaces into interactive wonders. Our team specializes in creating installations that engage audiences through a combination of technology and creativity.
 
 ## Our Approach
 
@@ -40,9 +19,7 @@ Transform physical spaces into interactive wonders. Our team specializes in crea
 
 Ready to embark on a digital adventure with Microplay Interactive Studio? Reach out to us:
 
-- **Email:** info@microplayinteractivestudio.com
-- **Phone:** [Your Phone Number]
-- **Address:** [Your Address]
+- **Email:** support@microplay.net
 
 Follow us on [Twitter](https://twitter.com/MicroplayStudio) and [Instagram](https://www.instagram.com/microplayinteractive/) for the latest updates and behind-the-scenes glimpses of our creative process.
 
